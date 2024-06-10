@@ -1,0 +1,41 @@
+{
+    "HW": [
+        "does not turn on",
+        "overheating",
+        "no power",
+        "physical damage",
+        "battery issue",
+        "charging problem",
+        "broken screen",
+        "fan noise",
+        "hard disk failure",
+        "keyboard malfunction",
+        "mouse not working",
+        "USB port issue",
+        "speaker problem",
+        "monitor flickering",
+        "graphics card issue",
+        "tube issues",
+        "network card failure"
+    ],
+    "SW": [
+        "error message",
+        "crashing",
+        "slow performance",
+        "software update failure",
+        "application not responding",
+        "installation error",
+        "blue screen",
+        "driver issue",
+        "virus infection",
+        "malware",
+        "corrupted files",
+        "network configuration issue",
+        "software compatibility issue",
+        "license error",
+        "system freeze",
+        "boot loop",
+        "password reset",
+        "Rumi"
+    ]
+}
